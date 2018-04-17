@@ -1,0 +1,39 @@
+body {
+  background-color: #aae5fe;
+}
+footer{
+  text-align: right;
+  font-style: italic;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-decoration: underline;
+  font-family: fantasy;
+  text-indent: 10px;
+  color: #0e6fd8;
+
+}
+h3{
+  font-family: fantasy;
+  text-indent: 30px;
+  color: #ee4d25;
+}
+p{
+  font-family: fantasy;
+  text-indent: 50px;
+}
+h4 {
+  font-family: fantasy;
+  text-indent: 40px;
+  font-style: italic;
+  color: #589050;
+}
+ul{
+  text-indent: 30px;
+  list-style-position: inside;
+}
